@@ -1,0 +1,36 @@
+h1,h2,h3{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h1{
+    font-family: 'Cinzel Decorative', cursive;  
+}
+h2{
+    font-family: 'Bree Serif', serif;
+}
+body{
+    background-color: #f8efd4;
+    color: #821752;
+    
+}
+.col-sm-6{
+    border: 2px solid rgb(223, 210, 223);
+}
+.container{
+    max-width: 96%;
+    margin: 0 2%;
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    align-items: center;
+}
+.score{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 400px;
+}
+button{
+    
+}
